@@ -1,2 +1,3 @@
 # My-first-DA-project
-This repository contains my beginner data analysis projects. Skills: Excel, SQL, Power BI, Python.
+This project is a Power BI dashboard created to analyze health and lifestyle data.
+It focuses on identifying trends using interactive visualizations.
